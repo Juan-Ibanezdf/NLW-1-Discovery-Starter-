@@ -101,7 +101,7 @@
 
 #page-home main a span::after {
   content: '';
-  background-image: url(./assets/search.svg);
+  background-image: url(/assets/search.svg);
 
   width: 20px;
   height: 20px;
